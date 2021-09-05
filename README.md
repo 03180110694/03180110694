@@ -9,3 +9,4 @@
 You can click the Preview link to take a look at your changes.
 --->
 system/framework/camera-filtersdk-universal.jar
+system/framework/camera-volley.jar
